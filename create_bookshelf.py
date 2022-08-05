@@ -19,15 +19,19 @@ books["The Big Book of Endurance Training and Racing"] = [1, "https://www.amazon
 books["The Alchemist"] = [2, "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416"]
 books["Godel, Escher, Bach"] = [1, "https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567"]
 books["Team of Rivals"] = [0, "https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754"]
-books["Siddhartha"] = [0, "https://www.google.com/search?q=siddhartha&oq=siddhartha&aqs=chrome..69i57j46i433i512j0i512j0i20i263i512j46i433i512l2j0i512l4.2025j0j4&sourceid=chrome&ie=UTF-8"]
+books["Siddhartha"] = [1, "https://www.google.com/search?q=siddhartha&oq=siddhartha&aqs=chrome..69i57j46i433i512j0i512j0i20i263i512j46i433i512l2j0i512l4.2025j0j4&sourceid=chrome&ie=UTF-8"]
 books["A Manual for Living"] = [0, "https://www.amazon.com/Manual-Living-Little-Wisdom-Francisco/dp/0062511114"]
-books["The Art of Possibility"] = [0, "https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104"]
 books["Man's Search for Meaning"] = [0, "https://www.google.com/search?sxsrf=ALiCzsapoQYx_nEaT3Oj91JXHmwXC3Gbfg:1659009208759&q=Man%27s+Search+for+Meaning&stick=H4sIAAAAAAAAAONQFuLRT9c3NErKNbYsyTZQ4tTP1TcwrDRKKz_FiCJzihFZCsLOKjOvOsXIBWKbVOaWmBueYuQF6TFMTy8yL8pLqYRKmuUVpOVU_GK0DErNSSxJTVEoyVcIyUhVcCwqUchPUwjILy7OTMrMySypVEjMS1FwVMhNzCtNzFFIyy9SyMksy8xL38WC4phdLEjmLmKV8E3MUy9WCE5NLErOAOvyTU3MA2qbwMZ4i02SwfRjK9NNz_otUv_tClgvdH3pnfTx3hv1qGYAu22H1v4AAAA&sa=X"]
 books["Why Zebras Don't Get Ulcers"] = [2, "https://www.amazon.com/Why-Zebras-Dont-Ulcers-Third/dp/0805073698/ref=pd_lpo_3?pd_rd_i=0805073698&psc=1"]
 books["Behave"] = [0, "https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/0143110918/ref=pd_lpo_2?pd_rd_i=0143110918&psc=1"]
 books["The Information"] = [0, "https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235/ref=pd_lpo_1?pd_rd_i=1400096235&psc=1"]
 books["Statistics As Principled Argument"] = [0, "https://www.amazon.com/Statistics-Principled-Argument-Robert-Abelson/dp/0805805281"]
 books["101 Essays that will Change the way You Think"] = [0, "https://www.amazon.com/Essays-That-Will-Change-Think/dp/1945796065/ref=asc_df_1945796065/?tag=hyprod-20&linkCode=df0&hvadid=312021238077&hvpos=&hvnetw=g&hvrand=5987409625835280258&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002001&hvtargid=pla-634062587037&psc=1"]
+books["Extreme Ownership"] = [0, ""]
+books["Improv(e) your conversations"] = [0, ""]
+books["Training for the Uphill Athlete"] = [0, ""]
+books["The Triathlete's Training Bible"] = [0, ""]
+
 colors = ["orange", "green", "blue"]
 
 for book, [read, link] in books.items():
